@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/space-shooter.git
+git clone https://github.com/Katya2910/game_galactic_defender.git
 cd space-shooter
 ```
 
